@@ -56,7 +56,7 @@ curl -fsSL https://claude.ai/install.sh | bash
 curl -fsSL https://claude.ai/install.cmd -o install.cmd && install.cmd && del install.cmd
 ```
 
-### 🪟 Windows Alternative (winget)
+### 🪟 Windows (WinGet)
 ```powershell
 winget install Anthropic.ClaudeCode
 ```

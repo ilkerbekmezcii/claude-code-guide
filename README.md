@@ -190,3 +190,11 @@ Type `/` in the prompt box to open the command menu, or `/help` to see the full 
 ---
 
 > **Claude Code** — Proprietary — Developed with ❤️ by Anthropic
+
+---
+
+### 🎮 From Earth Games+
+
+Looking for a quick word challenge on Android? Try **Adam Asmaca Oyunu** — a Turkish/English hangman-style word game with categories, hints, progression and customizable themes.
+
+[▶ Play Adam Asmaca on Google Play](https://play.google.com/store/apps/details?id=com.spg.adamasmaca)
